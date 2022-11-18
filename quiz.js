@@ -56,7 +56,7 @@ restart_quiz.onclick = ()=>{
 }
 
 quit_quiz.onclick = ()=>{
-    window.open("http://127.0.0.1:5500/thanks.html","_self");
+    window.open("https://soumyajit-12.github.io/ThankYouWebPage/","_self");
 }
 
 // If Next Button is clicked
